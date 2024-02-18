@@ -1,6 +1,3 @@
-# SmartBasil
-Stop killing my Basil plant and to allow me to go on 1month vacations without stressing about my Herbs
-
 ```mermaid 
 graph LR
     PD((USB PD IN )) --> 12v(12v rail) & 5v(5v bus rail) 
